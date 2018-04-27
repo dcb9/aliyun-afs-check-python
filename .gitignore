@@ -1,0 +1,8 @@
+/event.json
+/.envrc
+/__pycache__/
+/Crypto/
+/aliyun_python_sdk_*/
+/aliyunsdk*
+/integration/
+/pycryptodome*/
